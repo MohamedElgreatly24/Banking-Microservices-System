@@ -20,8 +20,6 @@ The project demonstrates how to build scalable, resilient, and cloud-native back
 
 ![Architecture](architecture.png)
 
-> Replace `architecture.png` with the name of your architecture diagram.
-
 ---
 
 # 🚀 Microservices
