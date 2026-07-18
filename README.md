@@ -4,7 +4,7 @@ A cloud-native banking application built using **Spring Boot**, **Spring Cloud**
 
 This project was developed as part of the Udemy course:
 
-> **Master Microservices with Spring Boot, Docker, Kubernetes**
+> **Master Microservices with Spring Boot, Docker, Kubernetes By Madan Reddy**
 
 ---
 
@@ -250,4 +250,4 @@ https://www.linkedin.com/in/mohamed-elgreatly/
 
 ---
 
-## ⭐ If you found this project interesting, feel free to star the repository!
+## ⭐ If you found this project interesting, feel free to visit instructor repo https://github.com/eazybytes/microservices !
