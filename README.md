@@ -48,10 +48,8 @@ The project demonstrates how to build scalable, resilient, and cloud-native back
 - Maven
 
 ### Databases
-
-- MySQL
 - PostgreSQL
-- MongoDB
+- H2 im memory database
 
 ### Cloud & DevOps
 
@@ -65,6 +63,7 @@ The project demonstrates how to build scalable, resilient, and cloud-native back
 ### Messaging
 
 - Apache Kafka
+- rebitMQ
 
 ### Microservices Patterns
 
